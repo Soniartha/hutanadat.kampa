@@ -1,2 +1,2 @@
 # hutanadat.kampa
-https://wilterzan.github.io/hutanadat.kampa/
+https://soniartha.github.io/hutanadat.kampa/
